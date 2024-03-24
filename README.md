@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+To start with Express js:
+installation:<command>
+npm install express nodemon mongoose
+
+To start express server:<command>
+npx nodemon
+
+To connect MongoDb with backend i.e express js:
+we are using mongoose. with the help of mongoose you can define or create schema that will help to set the constranits.
