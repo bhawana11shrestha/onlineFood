@@ -26,4 +26,4 @@ date:{
 
 }); 
 
-module.exports = mongoose.models('user',UserSchema)
+module.exports = mongoose.model('user',UserSchema)
