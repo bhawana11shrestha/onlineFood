@@ -79,4 +79,7 @@ To start express server:<command>
 npx nodemon
 
 To connect MongoDb with backend i.e express js:
-we are using mongoose. with the help of mongoose you can define or create schema that will help to set the constranits.
+'mongoose' is used, with the help of mongoose you can define or create schema that will also help to set the constranits on schema.
+
+To secure user's password:
+'bcryptjs'and 'jsonwebtoken' library is installed and used.
